@@ -2,7 +2,8 @@
 1. Thêm, sửa, xóa sách
 2. Lọc, tìm kiếm sách
 3. Thêm, sửa, xóa hóa đơn
-4. In hóa đơn
+4. Thêm, sửa, xóa loại sách
+5. In hóa đơn
  
 
 
